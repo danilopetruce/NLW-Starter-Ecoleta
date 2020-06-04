@@ -11,3 +11,7 @@ Repositório criado para acompanhamento da Next Level Week idealizado pela Rocke
 #### DIA 3 - HTML/CSS para criação da segunda parte do formulário (Lista de itens). Criado eventos em JS para "ouvir" os cliques e alterações na DOM para utilização de modal, e evento de clique para seleção de itens no formulário de cadastro.
 
 ![2020-06-03 20-25-18](https://user-images.githubusercontent.com/51519268/83698784-abad4600-a5d8-11ea-9253-cd0e5f8af0f5.gif)
+
+#### DIA 4 - Conceitos iniciais do Backend da aplicação utilizando o express para criação do server, e criação de algumas rotas, utilização da Template Engine Nunjucks para trazer os dados do template de forma dinâmica, e reestruturação de pastas para melhor organização do projeto.
+
+![2020-06-04 18-26-46](https://user-images.githubusercontent.com/51519268/83812458-f5a63280-a691-11ea-8d29-c99e48b54bb5.gif)
