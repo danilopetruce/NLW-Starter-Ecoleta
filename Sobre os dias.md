@@ -23,7 +23,7 @@ Conceitos iniciais do Backend da aplicação utilizando o express para criação
 Instalação do banco de dados (SQLITE), configuração do banco para criação, inserção, exclusão e listagem das entidades e informações.
 Criação de um novo modal para cadastro (Mensagem de cadastro concluido)
 Ajustes na template engine das paginas HTML utilizando as condicionais IF/ELSE e FOR.
-Utilização do banco de dados em nosso server, criando algumas rotas para utilização do mesmo.
+Implementação do banco de dados em nosso server, criando algumas rotas para utilização do mesmo.
 Projeto finalizado.
 
 Projeto em funcionamento:
